@@ -13,5 +13,4 @@ get '/name' do
   
  get '/music'
  'My favorite song is Top Striker'
- get ''
 end
